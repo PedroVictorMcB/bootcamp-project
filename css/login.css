@@ -6,6 +6,13 @@
 h2 {
     margin-top: 5rem;
     margin-bottom: 1rem;
+    font-size: 2rem;
+}
+
+.credentials {
+    width: 50%;
+    height: 50%;
+    margin-left: -0.1rem;
 }
 
 .credentials #email-txt {
